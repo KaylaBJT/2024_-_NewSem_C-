@@ -1,0 +1,15 @@
+D:\Учёба\GB\3.2 Знак-во с языками прогр. C# (семинар)\Seminar tasks\Sem003_DayOfWeek\obj\Debug\net6.0\Sem003_DayOfWeek.csproj.AssemblyReference.cache
+D:\Учёба\GB\3.2 Знак-во с языками прогр. C# (семинар)\Seminar tasks\Sem003_DayOfWeek\obj\Debug\net6.0\Sem003_DayOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\GB\3.2 Знак-во с языками прогр. C# (семинар)\Seminar tasks\Sem003_DayOfWeek\obj\Debug\net6.0\Sem003_DayOfWeek.AssemblyInfoInputs.cache
+D:\Учёба\GB\3.2 Знак-во с языками прогр. C# (семинар)\Seminar tasks\Sem003_DayOfWeek\obj\Debug\net6.0\Sem003_DayOfWeek.AssemblyInfo.cs
+D:\Учёба\GB\3.2 Знак-во с языками прогр. C# (семинар)\Seminar tasks\Sem003_DayOfWeek\obj\Debug\net6.0\Sem003_DayOfWeek.csproj.CoreCompileInputs.cache
+D:\Учёба\GB\3.2 Знак-во с языками прогр. C# (семинар)\Seminar tasks\Sem003_DayOfWeek\bin\Debug\net6.0\Sem003_DayOfWeek.exe
+D:\Учёба\GB\3.2 Знак-во с языками прогр. C# (семинар)\Seminar tasks\Sem003_DayOfWeek\bin\Debug\net6.0\Sem003_DayOfWeek.deps.json
+D:\Учёба\GB\3.2 Знак-во с языками прогр. C# (семинар)\Seminar tasks\Sem003_DayOfWeek\bin\Debug\net6.0\Sem003_DayOfWeek.runtimeconfig.json
+D:\Учёба\GB\3.2 Знак-во с языками прогр. C# (семинар)\Seminar tasks\Sem003_DayOfWeek\bin\Debug\net6.0\Sem003_DayOfWeek.dll
+D:\Учёба\GB\3.2 Знак-во с языками прогр. C# (семинар)\Seminar tasks\Sem003_DayOfWeek\bin\Debug\net6.0\Sem003_DayOfWeek.pdb
+D:\Учёба\GB\3.2 Знак-во с языками прогр. C# (семинар)\Seminar tasks\Sem003_DayOfWeek\obj\Debug\net6.0\Sem003_DayOfWeek.dll
+D:\Учёба\GB\3.2 Знак-во с языками прогр. C# (семинар)\Seminar tasks\Sem003_DayOfWeek\obj\Debug\net6.0\refint\Sem003_DayOfWeek.dll
+D:\Учёба\GB\3.2 Знак-во с языками прогр. C# (семинар)\Seminar tasks\Sem003_DayOfWeek\obj\Debug\net6.0\Sem003_DayOfWeek.pdb
+D:\Учёба\GB\3.2 Знак-во с языками прогр. C# (семинар)\Seminar tasks\Sem003_DayOfWeek\obj\Debug\net6.0\Sem003_DayOfWeek.genruntimeconfig.cache
+D:\Учёба\GB\3.2 Знак-во с языками прогр. C# (семинар)\Seminar tasks\Sem003_DayOfWeek\obj\Debug\net6.0\ref\Sem003_DayOfWeek.dll
