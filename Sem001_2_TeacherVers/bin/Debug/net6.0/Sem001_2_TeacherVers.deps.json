@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Sem001_2_TeacherVers/1.0.0": {
+        "runtime": {
+          "Sem001_2_TeacherVers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sem001_2_TeacherVers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

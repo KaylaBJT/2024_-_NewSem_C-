@@ -1,0 +1,15 @@
+D:\Учёба\GB\3.2 Знак-во с языками прогр. C# (семинар)\Seminar tasks\Sem001_2_TeacherVers\obj\Debug\net6.0\Sem001_2_TeacherVers.csproj.AssemblyReference.cache
+D:\Учёба\GB\3.2 Знак-во с языками прогр. C# (семинар)\Seminar tasks\Sem001_2_TeacherVers\obj\Debug\net6.0\Sem001_2_TeacherVers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\GB\3.2 Знак-во с языками прогр. C# (семинар)\Seminar tasks\Sem001_2_TeacherVers\obj\Debug\net6.0\Sem001_2_TeacherVers.AssemblyInfoInputs.cache
+D:\Учёба\GB\3.2 Знак-во с языками прогр. C# (семинар)\Seminar tasks\Sem001_2_TeacherVers\obj\Debug\net6.0\Sem001_2_TeacherVers.AssemblyInfo.cs
+D:\Учёба\GB\3.2 Знак-во с языками прогр. C# (семинар)\Seminar tasks\Sem001_2_TeacherVers\obj\Debug\net6.0\Sem001_2_TeacherVers.csproj.CoreCompileInputs.cache
+D:\Учёба\GB\3.2 Знак-во с языками прогр. C# (семинар)\Seminar tasks\Sem001_2_TeacherVers\bin\Debug\net6.0\Sem001_2_TeacherVers.exe
+D:\Учёба\GB\3.2 Знак-во с языками прогр. C# (семинар)\Seminar tasks\Sem001_2_TeacherVers\bin\Debug\net6.0\Sem001_2_TeacherVers.deps.json
+D:\Учёба\GB\3.2 Знак-во с языками прогр. C# (семинар)\Seminar tasks\Sem001_2_TeacherVers\bin\Debug\net6.0\Sem001_2_TeacherVers.runtimeconfig.json
+D:\Учёба\GB\3.2 Знак-во с языками прогр. C# (семинар)\Seminar tasks\Sem001_2_TeacherVers\bin\Debug\net6.0\Sem001_2_TeacherVers.dll
+D:\Учёба\GB\3.2 Знак-во с языками прогр. C# (семинар)\Seminar tasks\Sem001_2_TeacherVers\bin\Debug\net6.0\Sem001_2_TeacherVers.pdb
+D:\Учёба\GB\3.2 Знак-во с языками прогр. C# (семинар)\Seminar tasks\Sem001_2_TeacherVers\obj\Debug\net6.0\Sem001_2_TeacherVers.dll
+D:\Учёба\GB\3.2 Знак-во с языками прогр. C# (семинар)\Seminar tasks\Sem001_2_TeacherVers\obj\Debug\net6.0\refint\Sem001_2_TeacherVers.dll
+D:\Учёба\GB\3.2 Знак-во с языками прогр. C# (семинар)\Seminar tasks\Sem001_2_TeacherVers\obj\Debug\net6.0\Sem001_2_TeacherVers.pdb
+D:\Учёба\GB\3.2 Знак-во с языками прогр. C# (семинар)\Seminar tasks\Sem001_2_TeacherVers\obj\Debug\net6.0\Sem001_2_TeacherVers.genruntimeconfig.cache
+D:\Учёба\GB\3.2 Знак-во с языками прогр. C# (семинар)\Seminar tasks\Sem001_2_TeacherVers\obj\Debug\net6.0\ref\Sem001_2_TeacherVers.dll
