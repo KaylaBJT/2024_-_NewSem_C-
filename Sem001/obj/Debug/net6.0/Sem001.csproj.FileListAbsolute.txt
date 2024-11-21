@@ -1,0 +1,15 @@
+D:\Учёба\GB\3.2 Знак-во с языками прогр. C# (семинар)\Seminar tasks\Sem001\bin\Debug\net6.0\Sem001.exe
+D:\Учёба\GB\3.2 Знак-во с языками прогр. C# (семинар)\Seminar tasks\Sem001\bin\Debug\net6.0\Sem001.deps.json
+D:\Учёба\GB\3.2 Знак-во с языками прогр. C# (семинар)\Seminar tasks\Sem001\bin\Debug\net6.0\Sem001.runtimeconfig.json
+D:\Учёба\GB\3.2 Знак-во с языками прогр. C# (семинар)\Seminar tasks\Sem001\bin\Debug\net6.0\Sem001.dll
+D:\Учёба\GB\3.2 Знак-во с языками прогр. C# (семинар)\Seminar tasks\Sem001\bin\Debug\net6.0\Sem001.pdb
+D:\Учёба\GB\3.2 Знак-во с языками прогр. C# (семинар)\Seminar tasks\Sem001\obj\Debug\net6.0\Sem001.csproj.AssemblyReference.cache
+D:\Учёба\GB\3.2 Знак-во с языками прогр. C# (семинар)\Seminar tasks\Sem001\obj\Debug\net6.0\Sem001.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\GB\3.2 Знак-во с языками прогр. C# (семинар)\Seminar tasks\Sem001\obj\Debug\net6.0\Sem001.AssemblyInfoInputs.cache
+D:\Учёба\GB\3.2 Знак-во с языками прогр. C# (семинар)\Seminar tasks\Sem001\obj\Debug\net6.0\Sem001.AssemblyInfo.cs
+D:\Учёба\GB\3.2 Знак-во с языками прогр. C# (семинар)\Seminar tasks\Sem001\obj\Debug\net6.0\Sem001.csproj.CoreCompileInputs.cache
+D:\Учёба\GB\3.2 Знак-во с языками прогр. C# (семинар)\Seminar tasks\Sem001\obj\Debug\net6.0\Sem001.dll
+D:\Учёба\GB\3.2 Знак-во с языками прогр. C# (семинар)\Seminar tasks\Sem001\obj\Debug\net6.0\refint\Sem001.dll
+D:\Учёба\GB\3.2 Знак-во с языками прогр. C# (семинар)\Seminar tasks\Sem001\obj\Debug\net6.0\Sem001.pdb
+D:\Учёба\GB\3.2 Знак-во с языками прогр. C# (семинар)\Seminar tasks\Sem001\obj\Debug\net6.0\Sem001.genruntimeconfig.cache
+D:\Учёба\GB\3.2 Знак-во с языками прогр. C# (семинар)\Seminar tasks\Sem001\obj\Debug\net6.0\ref\Sem001.dll
