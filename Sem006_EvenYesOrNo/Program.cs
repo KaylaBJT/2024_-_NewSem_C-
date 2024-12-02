@@ -1,8 +1,10 @@
-﻿int n = int.Parse(Console.ReadLine());
-int count = n;
-
-while (count <= n)
+﻿Console.WriteLine("введите число: ");
+int i = int.Parse(Console.ReadLine());
+if (i % 2 == 0)
 {
-    Console.Write($"{count}, ");
-    count = count + 1;
+    Console.WriteLine("четное");
+}
+else
+{
+    Console.WriteLine("не четное");
 }
