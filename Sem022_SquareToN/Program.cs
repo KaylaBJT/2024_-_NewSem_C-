@@ -6,6 +6,7 @@ int N = int.Parse(Console.ReadLine());
 int count = 1;
 while (count <= N)
 {
-    Console.WriteLine(Math.Pow(count, 2));
+    //Console.WriteLine(Math.Pow(count, 2));
+    Console.Write($"{Math.Pow(count, 2)} ^_^ ");
     count++;
 }
